@@ -1,6 +1,6 @@
-# Automatic Workout Video Creator
+# Automatic Video Creator
 
-This Python script automates the creation of workout videos by utilizing the PyAutoGUI library. It simulates mouse and keyboard inputs to interact with video editing software and generate workout videos.
+This Python script automates the creation of videos by utilizing the PyAutoGUI library. It simulates mouse and keyboard inputs to interact with video editing software and generate workout videos.
 
 ## Compatibility
 
