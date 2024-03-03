@@ -12,16 +12,6 @@ Before running the script, ensure you have the following installed:
 
 - Python 3.x
 - PyAutoGUI library (`pip install pyautogui`)
-- Video editing software (e.g., Adobe Premiere Pro, Final Cut Pro, etc.)
-
-## Usage
-
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Open your preferred video editing software and load the project/template where you want to generate the workout video.
-4. Adjust the script according to your requirements. Ensure that mouse and keyboard coordinates match the layout of your editing software.
-5. Run the script using `python workout_video_creator.py`.
-6. Follow any on-screen instructions provided by the script.
 
 ## Notes
 
@@ -32,6 +22,3 @@ Before running the script, ensure you have the following installed:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
