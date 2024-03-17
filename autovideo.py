@@ -1,7 +1,9 @@
 import pyautogui, time
 
 time.sleep(6)
-workouts = ["20 Jumping Jacks","15 Push-Ups","20 Bodyweight Squats","30-Second Plank","10 Burpees"]
+
+workouts = [input("Enter the name of the workout") for i in range(5)]
+print(workouts)
 locations = [[634, 976], [765, 985], [902, 982], [1036, 986], [1158, 978]]
 count = 0
 
